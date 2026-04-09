@@ -12,6 +12,14 @@ The system is built as an **end-to-end ML application**, with DL methodological 
 
 ---
 
+##  Download Model
+
+Due to GitHub file size limits, the trained model is hosted externally:
+
+https://drive.google.com/drive/folders/1fhkW0NP0Dh_YLnjaaE0FGODOMhS7aIGN?usp=sharing 
+
+---
+
 ##  Problem Statement
 
 Manual vehicle damage inspection is:
